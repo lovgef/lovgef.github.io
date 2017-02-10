@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://lovgef.com/"/>
-  <updated>2017-02-10T07:59:10.316Z</updated>
+  <updated>2017-02-10T08:48:33.056Z</updated>
   <id>http://lovgef.com/</id>
   
   <author>
@@ -20,15 +20,24 @@
     <link href="http://lovgef.com/2017/02/10/hexo-next/"/>
     <id>http://lovgef.com/2017/02/10/hexo-next/</id>
     <published>2017-02-10T07:54:06.000Z</published>
-    <updated>2017-02-10T07:59:10.316Z</updated>
+    <updated>2017-02-10T08:48:33.056Z</updated>
     
-    <content type="html"><![CDATA[<p>上一节主要讲了Hexo博客的搭建和发布，本篇会介绍一下Hexo的nexT主题的相关配置。</p>
+    <content type="html"><![CDATA[<p>上一节主要讲了Hexo博客的搭建和发布，本篇会介绍一下Hexo的NexT主题的相关配置。</p>
+<h2 id="安装主题"><a href="#安装主题" class="headerlink" title="安装主题"></a>安装主题</h2><h3 id="安装NexT题"><a href="#安装NexT题" class="headerlink" title="安装NexT题"></a>安装NexT题</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div></pre></td><td class="code"><pre><div class="line">$ <span class="built_in">cd</span> your-hexo-site</div><div class="line">$ git <span class="built_in">clone</span> https://github.com/iissnan/hexo-theme-next themes/next</div></pre></td></tr></table></figure>
+<h3 id="启用主题"><a href="#启用主题" class="headerlink" title="启用主题"></a>启用主题</h3><figure class="highlight plain"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">theme: next</div></pre></td></tr></table></figure>
+<h2 id="集成第三方服务"><a href="#集成第三方服务" class="headerlink" title="集成第三方服务"></a>集成第三方服务</h2><p>下面只是简单的设置，详细设置请参考Next主题的官方文档。</p>
+<h3 id="多说评论"><a href="#多说评论" class="headerlink" title="多说评论"></a>多说评论</h3><p><img src="/images/ds-shortname.png" alt="多说评论"></p>
+<h3 id="百度统计"><a href="#百度统计" class="headerlink" title="百度统计"></a>百度统计</h3><p><img src="/images/baidu-tongji.png" alt="百度统计"></p>
+<h3 id="百度分享"><a href="#百度分享" class="headerlink" title="百度分享"></a>百度分享</h3><p><img src="/images/baidu-share.png" alt="百度分享"></p>
+<p>默认百度分享slide模式是在左边，想显示在右边可以修改主题代码。</p>
+<p><img src="/images/baidu-share2.png" alt="百度分享"></p>
+<h2 id="参考文档"><a href="#参考文档" class="headerlink" title="参考文档"></a>参考文档</h2><p><a href="http://theme-next.iissnan.com/getting-started.html" target="_blank" rel="external">NexT主题使用文档</a></p>
 ]]></content>
     
     <summary type="html">
     
-      &lt;p&gt;上一节主要讲了Hexo博客的搭建和发布，本篇会介绍一下Hexo的nexT主题的相关配置。&lt;/p&gt;
-
+      &lt;p&gt;上一节主要讲了Hexo博客的搭建和发布，本篇会介绍一下Hexo的NexT主题的相关配置。&lt;/p&gt;
+&lt;h2 id=&quot;安装主题&quot;&gt;&lt;a href=&quot;#安装主题&quot; class=&quot;headerlink&quot; title=&quot;安装主题&quot;&gt;&lt;/a&gt;安装主题&lt;/h2&gt;&lt;h3 id=&quot;安装Nex
     
     </summary>
     
